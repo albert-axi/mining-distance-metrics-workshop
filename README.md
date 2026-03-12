@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/albert-axi/mining-distance-metrics-workshop/main/notebooks/participant_distance_metrics_lab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/albert-axi/mining-distance-metrics-workshop/blob/main/notebooks/participant_distance_metrics_lab.ipynb)
 
 
 # Mining Distance Metrics Workshop Lab
