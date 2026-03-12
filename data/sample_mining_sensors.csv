@@ -1,0 +1,61 @@
+reading_id,site_zone,equipment_type,temperature,vibration,pressure,humidity,state_label
+R001,Crusher,Crusher Feed,74.13,1.99,106.74,48.45,Normal
+R002,Conveyor,Pump,64.72,3.2,119.97,39.76,Normal
+R003,Haulage,Crusher Feed,77.25,3.65,120.42,34.71,Normal
+R004,Mill,Pump,78.58,4.03,132.95,46.85,Normal
+R005,Crusher,Conveyor Motor,58.34,4.14,127.19,41.43,Normal
+R006,Processing,Drill Rig,62.88,4.21,121.93,50.29,Normal
+R007,Haulage,Conveyor Motor,72.89,3.19,134.1,39.47,Normal
+R008,Haulage,Drill Rig,69.79,3.08,104.92,28.2,Normal
+R009,Conveyor,Pump,89.88,7.069999999999999,90.96,39.05,Warning
+R010,Mill,Excavator,66.03,3.33,107.81,51.21,Normal
+R011,Mill,Excavator,78.16,2.35,113.71,51.79,Normal
+R012,Conveyor,Excavator,77.44,2.48,102.86,36.56,Normal
+R013,Conveyor,Crusher Feed,72.46,2.67,124.99,34.93,Warning
+R014,Conveyor,Conveyor Motor,79.89,3.95,115.56,49.69,Normal
+R015,Haulage,Pump,75.27,3.63,101.82,29.14,Normal
+R016,Processing,Conveyor Motor,65.98,4.12,106.83,30.84,Normal
+R017,Haulage,Excavator,74.58,3.12,121.45,43.15,Normal
+R018,Haulage,Drill Rig,65.29,3.64,127.22,34.84,Normal
+R019,Haulage,Drill Rig,78.15,4.06,139.96,37.96,Normal
+R020,Crusher,Excavator,71.65,3.22,150.05,36.69,Normal
+R021,Haulage,Pump,70.71,3.91,122.56,40.7,Normal
+R022,Crusher,Conveyor Motor,67.23,2.9,107.12,49.26,Normal
+R023,Mill,Pump,80.56,3.17,94.55,38.72,Normal
+R024,Mill,Drill Rig,70.92,3.16,120.94,43.15,Warning
+R025,Conveyor,Drill Rig,69.0,2.42,109.06,21.6,Normal
+R026,Crusher,Pump,69.54,3.94,113.43,37.61,Warning
+R027,Crusher,Drill Rig,75.73,3.08,111.27,31.25,Warning
+R028,Haulage,Drill Rig,96.56,6.609999999999999,91.45,38.25,Normal
+R029,Conveyor,Conveyor Motor,74.89,3.93,129.73,30.97,Normal
+R030,Conveyor,Pump,75.02,3.9,119.73,35.33,Normal
+R031,Haulage,Crusher Feed,86.99,4.1,116.26,45.33,Normal
+R032,Crusher,Drill Rig,69.16,3.41,106.61,27.39,Warning
+R033,Haulage,Pump,68.41,3.12,99.58,38.25,Warning
+R034,Haulage,Pump,66.3,3.43,112.65,34.13,Warning
+R035,Mill,Pump,76.31,1.98,117.41,35.38,Normal
+R036,Crusher,Pump,79.9,2.2,137.45,46.02,Warning
+R037,Crusher,Excavator,71.2,2.31,119.43,42.3,Normal
+R038,Conveyor,Pump,66.12,2.6,128.81,48.7,Normal
+R039,Mill,Excavator,66.23,3.86,112.51,36.76,Warning
+R040,Crusher,Pump,76.55,2.69,104.97,32.43,Warning
+R041,Mill,Conveyor Motor,77.2,3.16,107.38,36.21,Normal
+R042,Crusher,Crusher Feed,75.8,4.67,110.02,39.94,Warning
+R043,Mill,Crusher Feed,67.34,3.18,141.41,39.41,Normal
+R044,Crusher,Crusher Feed,73.63,4.16,108.96,29.32,Normal
+R045,Processing,Crusher Feed,72.82,2.66,127.22,38.72,Normal
+R046,Crusher,Crusher Feed,73.53,3.32,108.07,39.83,Normal
+R047,Crusher,Crusher Feed,78.1,2.64,128.25,58.14,Normal
+R048,Crusher,Drill Rig,73.57,3.19,122.23,53.01,Normal
+R049,Haulage,Pump,76.75,4.26,116.28,31.17,Warning
+R050,Crusher,Conveyor Motor,88.47,4.35,99.55,50.7,Normal
+R051,Mill,Excavator,74.02,3.89,110.8,26.29,Warning
+R052,Mill,Conveyor Motor,76.42,3.71,122.91,33.27,Warning
+R053,Mill,Pump,61.8,2.97,113.0,40.52,Warning
+R054,Processing,Pump,69.76,2.2,104.52,47.65,Normal
+R055,Haulage,Pump,68.71,3.56,103.94,32.17,Warning
+R056,Conveyor,Conveyor Motor,67.53,3.02,119.9,32.77,Warning
+R057,Haulage,Crusher Feed,70.07,3.71,135.37,20.82,Warning
+R058,Conveyor,Excavator,82.46,3.52,119.76,36.7,Normal
+R059,Haulage,Crusher Feed,65.94,4.94,116.69,29.5,Warning
+R060,Mill,Crusher Feed,78.78,3.28,121.14,33.76,Normal
