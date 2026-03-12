@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/albert-axi/mining-distance-metrics-workshop/blob/main/notebooks/participant_distance_metrics_lab.ipynb)
+
+
 # Mining Distance Metrics Workshop Lab
 
 This repository contains a workshop-ready lab for teaching distance metrics in a mining operations context.
